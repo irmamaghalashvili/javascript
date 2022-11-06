@@ -1,3 +1,4 @@
+'use strict';
 // davaleba N1
 let user = {
     firstname: "giorgi",
